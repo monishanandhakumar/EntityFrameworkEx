@@ -8,7 +8,7 @@ namespace EntityFrameworkEx
 {
     class RegionDAL
     {
-        //
+        // Added this line fron git repo
          NorthwindEntities db = new NorthwindEntities();
          Region region = new Region();
         
